@@ -93,13 +93,13 @@ A student productivity platform focused on organizing learning and exploring AI-
 
 ## 📊 GitHub Statistics
 
-### My GitHub Overview
+### GitHub Overview
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=timothykoigi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
 
 ### Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=timothykoigi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 ### 📈 Contribution Graph
 
