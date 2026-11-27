@@ -101,6 +101,10 @@ A student productivity platform focused on organizing learning and exploring AI-
 
 ![Top Languages](./profile/top-langs.svg)
 
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=timothykoigi&theme=tokyonight&hide_border=true)
+
 ### 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=timothykoigi&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true)
